@@ -1,0 +1,27 @@
+Conceitos-----------------------------------------------
+*back end- tudo oque acontece da tela para tras. ao clicar em um botão oque acontece com as informação
+    como são armazenadas e processadas. não e feito no navegador precisa de outra plataforma para processar. como node.js
+*front end- tem telas envolvidas, oque o usuário vê, tudo que acontece no frnt acontece no navegador
+*navegador- interpreta o java script com funcionalidades e front end
+*java script- linguagem interpretada. para front end é interpretada pelo navegador, para back não, é interpretada pelo node.js
+    e exibida no terminal  
+*node.js- ferramenta que interpreta o java script com funcionalidades diferentes do navegador, ultizado para back end
+
+Variaveis-----------------------------------------------
+*let - valor da variavel pode ser alterada depois de declarada
+*const - valor não pode ser alterado depois de declarada, precisa ser atribuido valor quando é declarada
+*var - inutilizado , deixa fazer muitas alterações que podem atrapalhar 
+
+Tipos de dados------------------------------------------
+
+string - usado para textos
+number - usado para números 
+boolean - dois valores possíveis true or false
+    qualquer comparação === resulta em true or false
+undefined - variavel não definida
+null - variavel nula / vazia
+symbol - 
+
+Operadores----------------------------------------------
+
+Funções ------------------------------------------------
