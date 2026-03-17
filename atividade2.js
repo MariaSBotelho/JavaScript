@@ -49,9 +49,11 @@ if(v1 === true || v2 === true){
 //para um show. Declare duas variáveis que determinem a idade mínima e qual a idade do usuário 
 //e utilize estruturas condicionais (if, else) para determinar se o usuário pode realizar a compra.
 
-let idadeUsuario = 18;
+let idadeUsuario = 17;
 let idadeMinima = 18;
 
 if(idadeUsuario >= idadeMinima ){
     console.log('O usuário pode realizar a compra do ingresso!');
+} else {
+    console.log('Usuário deve ser maior de idade para realizar a compra!')
 }
