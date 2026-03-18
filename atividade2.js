@@ -55,5 +55,5 @@ let idadeMinima = 18;
 if(idadeUsuario >= idadeMinima ){
     console.log('O usuário pode realizar a compra do ingresso!');
 } else {
-    console.log('Usuário deve ser maior de idade para realizar a compra!')
+    console.log('Usuário deve ser maior de idade para realizar a compra!');
 }
