@@ -25,3 +25,8 @@ symbol -
 Operadores----------------------------------------------
 
 Funções ------------------------------------------------
+função bloco de codigo que é executado ao ser chamado
+parametros/ argumentos - para receber uma informação externa
+parametros devem ser chamados na orderm que foram declarados
+console.log- função que apenas registra informação no terminal, não faz nenhum processamento
+return - processa dados, precisa de console.log para ser exibido no terminal
